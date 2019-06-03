@@ -7,7 +7,8 @@ PROGRAMMER: VLC ICS4U Computer Science Class - K. Woo
 '''
 
 A=12.34
-<<<<<<< HEAD
+
 C=454.33
-=======
->>>>>>> db7ae45a703ab008ccdbfef1c9d950426a7a0012
+
+B=23.45
+
