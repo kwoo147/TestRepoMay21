@@ -7,4 +7,4 @@ PROGRAMMER: VLC ICS4U Computer Science Class - K. Woo
 '''
 
 A=12.34
-
+B=23.45
